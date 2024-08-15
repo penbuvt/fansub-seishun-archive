@@ -48,3 +48,6 @@ Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\fnDosis Sem
 Dialogue: 0,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\blur0.7\bor0\yshad9\ko\3a&HFF&\1a&HFF&\4c&HFFF9EC&\3c&HFFE0BD&\c&HFFE0BD&\fs60\pos(529.7,133.61)}Gura
 Dialogue: 1,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\blur0.7\bord3\3c&HFFE0BD&\c&HFFE0BD&\fs60\pos(529.7,133.61)}Gura
 Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\fnDosis SemiBold\blur0.7\c&HDF5936&\fs60\pos(529.7,133.61)}Gura
+Comment: 2,0:02:08.02,0:02:09.36,Signs,#,0,0,0,,Chat
+Dialogue: 2,0:02:08.02,0:02:09.36,Masks,,0,0,0,,{\pos(0,0)\p1\c&HFAFAFA&}m 72.04 769.61 l 421.93 768.45 420.46 1011.92 72.08 1012.2
+Dialogue: 2,0:02:08.02,0:02:09.36,Signs,,0,0,0,,{\an7\c&H2F2F2F&\fnDosis\fs40\pos(82.87,767.76)\b500\blur0.6}Puffer{\b0}: too bad! lol\N{\b500}NOTTINY{\b0}: Oh no...\N{\b500}astroturf{\b0}: just a little bit more\N{\b500}Soup me up{\b0}: CUTE!\N{\b500}Riceboats{\b0}: i wanna go to the \N\h\h\h\hbeach
