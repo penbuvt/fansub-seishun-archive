@@ -51,3 +51,6 @@ Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\fnDosis Sem
 Comment: 2,0:02:08.02,0:02:09.36,Signs,#,0,0,0,,Chat
 Dialogue: 2,0:02:08.02,0:02:09.36,Masks,,0,0,0,,{\pos(0,0)\p1\c&HFAFAFA&}m 72.04 769.61 l 421.93 768.45 420.46 1011.92 72.08 1012.2
 Dialogue: 2,0:02:08.02,0:02:09.36,Signs,,0,0,0,,{\an7\c&H2F2F2F&\fnDosis\fs40\pos(82.87,767.76)\b500\blur0.6}Puffer{\b0}: too bad! lol\N{\b500}NOTTINY{\b0}: Oh no...\N{\b500}astroturf{\b0}: just a little bit more\N{\b500}Soup me up{\b0}: CUTE!\N{\b500}Riceboats{\b0}: i wanna go to the \N\h\h\h\hbeach
+Comment: 2,0:02:08.02,0:02:09.36,Signs,#,0,0,0,,Hashtag
+Dialogue: 2,0:02:08.02,0:02:09.36,Masks,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&HFAFAFA&\fnGothic A1\fs40\b0}m 1408.23 950.4 l 1826.8 947.86 1825.95 1010.54 1405.68 1008.85
+Dialogue: 2,0:02:08.02,0:02:09.36,Signs,,0,0,0,,{\c&H2F2F2F&\fnGothic A1\fs60\b1\fscy110\pos(1620.05,979.2)\blur0.6}#TokinoSoraStream
