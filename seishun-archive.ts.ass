@@ -25,6 +25,9 @@ Style: Masks,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:38.39,0:00:39.89,Signs,#,0,0,0,,No entry
+Dialogue: 0,0:00:38.39,0:00:39.89,Signs,,0,0,0,,{\an7\p1\c&HF1F4F4&\b5\be5\move(0,0,-81.83,0,23,1483)}m 42.62 646.92 l 45.71 675.58 108.47 650.01 107.7 613.6
+Dialogue: 1,0:00:38.39,0:00:39.89,Signs,,0,0,0,,{\an5\c&H727070&\b1\fs30\fax-0.92\fscx40\frz23.41\blur3\move(81.19,644.03,-0.64,644.03,23,1483)}NO ENTRY
 Comment: 0,0:00:41.90,0:00:43.61,Signs,#,0,0,0,,Sora notebook
 Dialogue: 0,0:00:41.90,0:00:43.61,Masks,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&HFAFAFA&\blur5\fscx100\fscy100\p1\frz0}m 1209.28 431.29 l 1008.66 755.41 1380.77 906.78 1488.62 744.16 1428.51 498.46
 Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\frz60.95\pos(1224.07,451.48)}|
