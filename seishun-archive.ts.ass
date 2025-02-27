@@ -25,6 +25,56 @@ Style: Masks,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:41.90,0:00:43.61,Signs,#,0,0,0,,Sora notebook
+Dialogue: 0,0:00:41.90,0:00:43.61,Masks,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&HFAFAFA&\blur5\fscx100\fscy100\p1\frz0}m 1209.28 431.29 l 1008.66 755.41 1380.77 906.78 1488.62 744.16 1428.51 498.46
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\frz60.95\pos(1224.07,451.48)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\pos(1213.8,468.39)\frz60.95}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\frz60.95\pos(1204.13,488.93)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\frz64.38\pos(1192.65,504.64)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\pos(1172.71,522.76)\frz64.38}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\pos(1162.44,546.32)\frz64.38}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\frz64.38\pos(1149.14,563.84)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\frz64.38\pos(1135.84,582.56)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\pos(1126.77,603.1)\frz65.21}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\frz65.21\pos(1116.5,624.24)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\pos(1106.23,642.36)\frz66.84}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\frz66.84\pos(1097.16,661.69)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\frz66.84\pos(1085.68,679.21)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\frz66.84\pos(1065.13,699.75)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\pos(1057.88,719.68)\frz67.71}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\pos(1042.17,737.2)\frz68.15}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy40\1a&H9C&\frz68.15\pos(1034.31,755.92)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy200\1a&H9C&\pos(1351,499.2)\frz59.64}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy250\pos(1346.16,521.55)\frz59.46\1a&H9C&}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy230\frz59.46\1a&H9C&\pos(1338.5,539.65)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy250\frz59.46\1a&H9C&\pos(1328.75,559.84)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy250\frz59.46\1a&H9C&\pos(1321.09,577.94)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy300\1a&H9C&\frz60.16\pos(1309.76,601.28)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy300\1a&H9C&\pos(1298.8,621.11)\frz60.86}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy300\1a&H9C&\frz60.86\pos(1288.68,642)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy300\1a&H9C&\frz60.86\pos(1275.96,657.92)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy300\1a&H9C&\frz60.86\pos(1267.09,678.54)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy300\1a&H9C&\frz60.86\pos(1253.53,697.71)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy300\1a&H9C&\frz60.86\pos(1245.37,720.46)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy300\1a&H9C&\frz60.86\pos(1238.13,739.16)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy300\1a&H9C&\frz60.86\pos(1232.99,761.26)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy325\1a&H9C&\pos(1205.35,774.98)\frz61.21}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy300\1a&H9C&\frz62.22\pos(1201.55,797.15)}|
+Dialogue: 1,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\an5\c&HE4E7E7&\blur1\fs200\fnDosis\fscx10\fscy250\1a&H9C&\frz60.86\pos(1169.96,804.24)}|
+Dialogue: 0,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\c&H373739&\fnWaiting for the Sunrise\fs100\b0\1a&HAF&\blur1.2\fax-0.04\frz332.1\pos(1289.25,591.56)}Shoot for
+Dialogue: 0,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\c&H373739&\fnWaiting for the Sunrise\fs100\b0\1a&HAF&\blur1.2\fax-0.04\frz331.4\pos(1266.94,677.15)}Yokohama Arena!!
+Dialogue: 0,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\c&H373739&\fnWaiting for the Sunrise\fs100\b0\1a&HC0&\blur1\fax-0.04\fscx90\fscy98\frz333.1\pos(1249.85,569.34)}Shoot
+Dialogue: 0,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\c&H373739&\fnWaiting for the Sunrise\fs100\b0\1a&HC0&\blur1\fax-0.04\fscx96\fscy98\frz330\pos(1244.89,573.4)}Shoot
+Dialogue: 0,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\c&H373739&\fnWaiting for the Sunrise\fs100\b0\1a&HC0&\blur1\fax-0.04\fscx96\fscy98\frz333.5\pos(1352.48,624.02)}for
+Dialogue: 0,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\c&H373739&\fnWaiting for the Sunrise\fs100\b0\1a&HC0&\blur1\fax-0.04\fscx96\fscy98\frz329.9\pos(1354.62,629.76)}for
+Dialogue: 0,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\c&H373739&\fnWaiting for the Sunrise\fs100\b0\1a&HC0&\blur1\fax-0.04\fscx96\fscy98\frz329.5\pos(1144.62,613.57)}Yoko
+Dialogue: 0,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\c&H373739&\fnWaiting for the Sunrise\fs100\b0\1a&HC0&\blur1\fax-0.04\fscx96\fscy98\frz333\pos(1146.29,606.74)}Yoko
+Dialogue: 0,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\c&H373739&\fnWaiting for the Sunrise\fs100\b0\1a&HC0&\blur1\fax-0.04\fscx96\fscy98\frz333.7\pos(1233.84,660.17)}hama
+Dialogue: 0,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\c&H373739&\fnWaiting for the Sunrise\fs100\b0\1a&HC0&\blur1\fax-0.04\fscx96\fscy98\frz330.8\pos(1240.55,659.15)}hama
+Dialogue: 0,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\c&H373739&\fnWaiting for the Sunrise\fs100\b0\1a&HC0&\blur1\fax-0.04\fscx96\fscy98\frz331.3\pos(1365.61,727.08)}Arena
+Dialogue: 0,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\c&H373739&\fnWaiting for the Sunrise\fs100\b0\1a&HC0&\blur1\fax-0.04\fscx96\fscy98\frz330.2\pos(1365.01,733.11)}Arena
+Dialogue: 0,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\c&H373739&\fnWaiting for the Sunrise\fs100\b0\1a&HC0&\blur1\fax-0.04\fscx96\fscy98\pos(1429.85,761.87)\frz335.1}!!
+Dialogue: 0,0:00:41.90,0:00:43.61,Signs,,0,0,0,,{\c&H373739&\fnWaiting for the Sunrise\fs100\b0\1a&HC0&\blur1\fax-0.04\fscx96\fscy98\frz327.4\pos(1429.85,764.87)}!!
 Comment: 0,0:02:08.02,0:02:09.40,Signs,#,0,0,0,,Melon-splitting with Gura
 Dialogue: 0,0:02:08.02,0:02:09.40,Signs,,0,0,0,,{\fnDosis SemiBold\c&H49362D&\blur0.6\pos(427.36,130.26)}Melon-splitting with Gura
 Comment: 0,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\c&HB2F69F&\blur0.7\bord0\yshad9\ko\3a&HFF&\1a&HFF&\3c&HB2F69F&\4c&HFFF9EC&\fs60\pos(232.41,136.29)}Melon-splitting
