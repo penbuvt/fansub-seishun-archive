@@ -25,32 +25,32 @@ Style: Masks,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:02:08.02,0:02:09.36,Signs,#,0,0,0,,Melon-splitting with Gura
-Comment: 0,0:02:08.02,0:02:09.36,Signs,,0,0,0,,{\fnDosis SemiBold\c&H49362D&\blur0.6\pos(427.36,130.26)}Melon-splitting with Gura
-Dialogue: 0,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\c&HB2F69F&\blur0.7\bord0\yshad9\ko\3a&HFF&\1a&HFF&\3c&HB2F69F&\4c&HFFF9EC&\fs60\pos(232.41,136.29)}Melon-splitting
-Dialogue: 1,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\c&HB2F69F&\blur0.7\bord3\3c&HB2F69F&\fs60\pos(232.41,136.29)}Melon-splitting
-Comment: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\fnDosis SemiBold\c&H247206&\blur0.7\fs60\pos(232.41,136.29)}Melon-splitting
-Comment: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\fnDosis SemiBold\c&H319C0A&\blur0.7\fs60\pos(232.41,136.29)}Melon-splitting
-Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\clip(98,117,369,122)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H247206&}Melon-splitting
-Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\clip(98,122,369,127)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H257606&}Melon-splitting
-Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\clip(98,127,369,132)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H267A06&}Melon-splitting
-Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\clip(98,132,369,137)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H277E07&}Melon-splitting
-Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\clip(98,137,369,142)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H298207&}Melon-splitting
-Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\clip(98,142,369,147)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H2A8708&}Melon-splitting
-Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\clip(98,147,369,152)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H2B8B08&}Melon-splitting
-Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\clip(98,152,369,157)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H2D8F08&}Melon-splitting
-Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\clip(98,157,369,162)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H2E9309&}Melon-splitting
-Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\clip(98,162,369,167)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H2F9709&}Melon-splitting
-Comment: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\clip(98,167,369,172)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H319C0A&}Melon-splitting
-Dialogue: 0,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\blur0.7\bord0\yshad9\ko\3a&HFF&\1a&HFF&\4c&HFFF9EC&\3c&HFFE0BD&\c&HFFE0BD&\fs60\pos(430.68,118.83)}with
-Dialogue: 1,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\blur0.7\bord0\3c&HFFE0BD&\c&HFFE0BD&\fs60\pos(430.68,118.83)}with
-Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\fnDosis SemiBold\blur0.7\c&HDF5936&\fs60\pos(430.68,118.83)}with
-Dialogue: 0,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\blur0.7\bor0\yshad9\ko\3a&HFF&\1a&HFF&\4c&HFFF9EC&\3c&HFFE0BD&\c&HFFE0BD&\fs60\pos(529.7,133.61)}Gura
-Dialogue: 1,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\blur0.7\bord3\3c&HFFE0BD&\c&HFFE0BD&\fs60\pos(529.7,133.61)}Gura
-Dialogue: 2,0:02:08.02,0:02:09.36,Signs,Melon-splitting,0,0,0,fill,{\fnDosis SemiBold\blur0.7\c&HDF5936&\fs60\pos(529.7,133.61)}Gura
-Comment: 2,0:02:08.02,0:02:09.36,Signs,#,0,0,0,,Chat
-Dialogue: 2,0:02:08.02,0:02:09.36,Masks,,0,0,0,,{\pos(0,0)\p1\c&HFAFAFA&}m 72.04 769.61 l 421.93 768.45 420.46 1011.92 72.08 1012.2
-Dialogue: 2,0:02:08.02,0:02:09.36,Signs,,0,0,0,,{\an7\c&H2F2F2F&\fnDosis\fs40\pos(82.87,767.76)\b500\blur0.6}Puffer{\b0}: too bad! lol\N{\b500}NOTTINY{\b0}: Oh no...\N{\b500}astroturf{\b0}: just a little bit more\N{\b500}Soup me up{\b0}: CUTE!\N{\b500}Riceboats{\b0}: i wanna go to the \N\h\h\h\hbeach
-Comment: 2,0:02:08.02,0:02:09.36,Signs,#,0,0,0,,Hashtag
-Dialogue: 2,0:02:08.02,0:02:09.36,Masks,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&HFAFAFA&\fnGothic A1\fs40\b0}m 1408.23 950.4 l 1826.8 947.86 1825.95 1010.54 1405.68 1008.85
-Dialogue: 2,0:02:08.02,0:02:09.36,Signs,,0,0,0,,{\c&H2F2F2F&\fnGothic A1\fs60\b1\fscy110\pos(1620.05,979.2)\blur0.6}#TokinoSoraStream
+Comment: 0,0:02:08.02,0:02:09.40,Signs,#,0,0,0,,Melon-splitting with Gura
+Dialogue: 0,0:02:08.02,0:02:09.40,Signs,,0,0,0,,{\fnDosis SemiBold\c&H49362D&\blur0.6\pos(427.36,130.26)}Melon-splitting with Gura
+Comment: 0,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\c&HB2F69F&\blur0.7\bord0\yshad9\ko\3a&HFF&\1a&HFF&\3c&HB2F69F&\4c&HFFF9EC&\fs60\pos(232.41,136.29)}Melon-splitting
+Comment: 1,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\c&HB2F69F&\blur0.7\bord3\3c&HB2F69F&\fs60\pos(232.41,136.29)}Melon-splitting
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\fnDosis SemiBold\c&H247206&\blur0.7\fs60\pos(232.41,136.29)}Melon-splitting
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\fnDosis SemiBold\c&H319C0A&\blur0.7\fs60\pos(232.41,136.29)}Melon-splitting
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\clip(98,117,369,122)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H247206&}Melon-splitting
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\clip(98,122,369,127)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H257606&}Melon-splitting
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\clip(98,127,369,132)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H267A06&}Melon-splitting
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\clip(98,132,369,137)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H277E07&}Melon-splitting
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\clip(98,137,369,142)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H298207&}Melon-splitting
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\clip(98,142,369,147)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H2A8708&}Melon-splitting
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\clip(98,147,369,152)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H2B8B08&}Melon-splitting
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\clip(98,152,369,157)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H2D8F08&}Melon-splitting
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\clip(98,157,369,162)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H2E9309&}Melon-splitting
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\clip(98,162,369,167)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H2F9709&}Melon-splitting
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\clip(98,167,369,172)\pos(232.41,136.29)\fnDosis SemiBold\blur0.7\fs60\c&H319C0A&}Melon-splitting
+Comment: 0,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\blur0.7\bord0\yshad9\ko\3a&HFF&\1a&HFF&\4c&HFFF9EC&\3c&HFFE0BD&\c&HFFE0BD&\fs60\pos(430.68,118.83)}with
+Comment: 1,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\blur0.7\bord0\3c&HFFE0BD&\c&HFFE0BD&\fs60\pos(430.68,118.83)}with
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\fnDosis SemiBold\blur0.7\c&HDF5936&\fs60\pos(430.68,118.83)}with
+Comment: 0,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\blur0.7\bor0\yshad9\ko\3a&HFF&\1a&HFF&\4c&HFFF9EC&\3c&HFFE0BD&\c&HFFE0BD&\fs60\pos(529.7,133.61)}Gura
+Comment: 1,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,outline,{\fnDosis SemiBold\blur0.7\bord3\3c&HFFE0BD&\c&HFFE0BD&\fs60\pos(529.7,133.61)}Gura
+Comment: 2,0:02:08.02,0:02:09.40,Signs,Melon-splitting,0,0,0,fill,{\fnDosis SemiBold\blur0.7\c&HDF5936&\fs60\pos(529.7,133.61)}Gura
+Comment: 2,0:02:08.02,0:02:09.40,Signs,#,0,0,0,,Chat
+Dialogue: 2,0:02:08.02,0:02:09.40,Masks,,0,0,0,,{\pos(0,0)\p1\c&HFAFAFA&}m 72.04 769.61 l 421.93 768.45 420.46 1011.92 72.08 1012.2
+Dialogue: 2,0:02:08.02,0:02:09.40,Signs,,0,0,0,,{\an7\c&H2F2F2F&\fnDosis\fs40\pos(82.87,767.76)\b500\blur0.6}Puffer{\b0}: too bad! lol\N{\b500}NOTTINY{\b0}: Oh no...\N{\b500}astroturf{\b0}: just a little bit more\N{\b500}Soup me up{\b0}: CUTE!\N{\b500}Riceboats{\b0}: i wanna go to the \N\h\h\h\hbeach
+Comment: 2,0:02:08.02,0:02:09.40,Signs,#,0,0,0,,Hashtag
+Dialogue: 2,0:02:08.02,0:02:09.40,Masks,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&HFAFAFA&\fnGothic A1\fs40\b0}m 1408.23 950.4 l 1826.8 947.86 1825.95 1010.54 1405.68 1008.85
+Dialogue: 2,0:02:08.02,0:02:09.40,Signs,,0,0,0,,{\c&H2F2F2F&\fnGothic A1\fs60\b1\fscy110\pos(1620.05,979.2)\blur0.6}#TokinoSoraStream
